@@ -10,7 +10,7 @@ const Navbar = () => {
         
         <div className="flex-shrink-0">
           <Image
-            src="/nexus_logonew.png"
+            src="/nexus_logo.png"
             width={203}
             height={30}
             alt="Nexus Logo"
